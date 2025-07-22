@@ -96,13 +96,7 @@ AI-Kaksha/
 - **Hriday Ranawat** - [GitHub](https://github.com/Hridayyy1)
 - **Daksh Sanghvi** - [GitHub](https://github.com/daksh-sanghvii)
 
-## 📞 Support
-Contact: 
-- ihridayranawat@gmail.com 
-- daksh.sanghvi@email.com  
-Or open GitHub issue
 
-Built with ❤️ by AI Kaksha Team
 
 ---
 
