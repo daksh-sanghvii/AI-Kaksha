@@ -1,1 +1,1 @@
-# AI-Kaksha
+# EduAI:Next Gen Learning Platform
