@@ -4,6 +4,9 @@
 
 AI Kaksha redefines digital education by merging artificial intelligence with collaborative learning tools to create personalized, interactive learning experiences.
 
+## 🎥 Demo Video
+Check out the live demo of AI Kaksha here: [Watch Demo]([https://your-demo-video-link.com](https://drive.google.com/drive/folders/1pWENJh17JQ-ZBaVQeAutcZo-BWbQEsLc?usp=sharing))
+
 ## ✨ Key Features
 
 ### 🧠 AI-Powered Learning Assistant
